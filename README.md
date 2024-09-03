@@ -1,5 +1,5 @@
 # sundownstudio
-Sundown Studio website clone using in HTML,CSS and JS, locomotive Js & Swiper Js. (⚠️⚠️⚠️Needs little bit adjusted for smaller screens⚠️⚠️)
+Sundown Studio website clone using in HTML,CSS and JS, locomotive Js & Swiper Js. (⚠️⚠️⚠️Needs little bit adjustment for smaller screens⚠️⚠️)
 Live at https://khizarshahid.github.io/sundown-studio
 ******************************************************************************************
 ------------------------------------------------------------------------------------------
