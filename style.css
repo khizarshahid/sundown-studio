@@ -356,8 +356,7 @@ nav h3{
     top: 25%;
     display: none;
     background-size: cover;
-    background-position: center;
-    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.424);  
+    background-position: center; 
 }
 
 #page4{
